@@ -1,6 +1,12 @@
-2021-09-16 17:52:17,480 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
-2021-09-16 17:58:08,872 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
-2021-09-16 17:58:34,427 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
-2021-09-16 17:58:41,276 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
-2021-09-16 17:58:50,810 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
-2021-09-16 17:59:06,820 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-09-16 18:00:24,802 - root - INFO - Registered hooks from 2 installed plugin(s): kedro-mlflow-0.7.4
+2021-09-16 18:00:24,824 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-09-16 18:00:51,248 - root - INFO - Registered hooks from 2 installed plugin(s): kedro-mlflow-0.7.4
+2021-09-16 18:00:51,283 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-09-16 18:06:21,437 - root - INFO - Registered hooks from 2 installed plugin(s): kedro-mlflow-0.7.4
+2021-09-16 18:06:21,458 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-09-16 18:06:39,664 - root - INFO - Registered hooks from 2 installed plugin(s): kedro-mlflow-0.7.4
+2021-09-16 18:06:39,686 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-09-16 18:56:47,872 - root - INFO - Registered hooks from 2 installed plugin(s): kedro-mlflow-0.7.4
+2021-09-16 18:56:47,894 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-09-16 18:56:48,204 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-09-16 18:56:48,212 - kedro.framework.session.session - WARNING - Unable to git describe /Users/r.k.shyamgurunath/Desktop/Document_Tagger/Document_Tagger
